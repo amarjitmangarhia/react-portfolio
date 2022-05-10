@@ -119,4 +119,10 @@ button {
   button {
     margin-top: 10px;
   }
+
+  .thanks {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
 }
