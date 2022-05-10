@@ -1,10 +1,3 @@
-// import a from "./img/pro-img/1.jpg";
-import b from "./img/pro-img/2.jpg";
-import c from "./img/pro-img/3.jpg";
-import d from "./img/pro-img/4.jpg";
-import e from "./img/pro-img/5.jpg";
-import f from "./img/pro-img/6.jpg";
-
 export const products = [
   {
     id: 1,
